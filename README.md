@@ -1,2 +1,2 @@
-What is Anova ?¶
+# What is Anova ?
 ANOVA (Analysis of Variance) is a statistical method generally used to determine statistical differences between three or more groups. This method is used to evaluate whether the means between groups are statistically significantly different. ANOVA is based on comparing the variance between groups with the variance within the group. A test called the "F-test" is often used to evaluate the ratio of between-group variance to within-group variance. If this ratio shows a statistically significant difference, it is concluded that there is a significant difference between the groups. ANOVA is a commonly used method, especially to determine statistical differences between more than 2 groups
